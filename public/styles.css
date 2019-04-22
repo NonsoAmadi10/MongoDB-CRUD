@@ -1,0 +1,23 @@
+body{
+    padding:0;
+    margin:0;
+    
+}
+.bod{
+    margin-top: 80px;
+}
+
+.alert-error{
+    background: rgb(243, 132, 150);
+    color: rgb(138, 6, 6);
+    padding: 20px;
+    border:#ebccd1;
+}
+
+.alert-success{
+    background: rgb(119, 199, 119);
+    color: rgb(21, 128, 0);
+    padding: 20px;
+    border: rgb(21, 128, 0);
+}
+

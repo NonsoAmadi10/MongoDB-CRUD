@@ -1,0 +1,13 @@
+extends layout
+
+block content
+    h1= article.title
+    p Written By #{author}
+    .card.p-3
+        p.card-text=article.body
+    br
+    if user
+        if user.id == article.author
+            a.btn.btn-default.btn-info.mr-3(href='/articles/edit/'+article._id) Edit 
+            
+            a.btn.btn-danger.delete-article(href="#", data-id= article._id) Delete

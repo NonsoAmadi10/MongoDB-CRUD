@@ -1,0 +1,22 @@
+{
+    "editor.fontFamily": "monospace",
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.colorTheme": "Default Dark+",
+    "breadcrumbs.enabled": true,
+    "zenMode.restore": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontFamily": "New Courier",
+    "terminal.integrated.fontWeight": "bold",
+    "css.lint.argumentsInColorFunction": "warning",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "debug.node.autoAttach": "on",
+    "editor.fontLigatures": true
+}
